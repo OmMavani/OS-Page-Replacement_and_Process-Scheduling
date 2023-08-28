@@ -1,8 +1,3 @@
-// 2BCE029 
-// Vasu Beladiya
-// A - A2
-// Os _ Innovative 
-
 #include "bits/stdc++.h"
 using namespace std;
 
